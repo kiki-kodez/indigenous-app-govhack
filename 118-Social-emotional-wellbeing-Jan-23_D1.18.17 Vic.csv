@@ -1,0 +1,47 @@
+"Table D1.18.17 Vic: Hospitalisations of Indigenous Australians for mental health-related conditions (based on principal diagnosis), by type of condition and sex, Victoria and Australia, July 2017 to June 2019",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20
+,Males,,,,,,,Females,,,,,,,Persons(a),,,,,
+Principal diagnosis,Number,%(b),"Crude rate (per 1,000)","Age-std. rate (per 1,000)(c)",Rate ratio(d),Rate difference(e),,Number,%(b),"Crude rate (per 1,000)","Age-std. rate (per 1,000)(c)",Rate ratio(d),Rate difference(e),,Number,%(b),"Crude rate (per 1,000)","Age-std. rate (per 1,000)(c)",Rate ratio(d),Rate difference(e)
+,Victoria,,,,,,,,,,,,,,,,,,,
+Mental and behavioural disorders due to psychoactive substance use (F10–F19),532,33,8.7,10.8,3.1,7.3,,375,21.5,6.2,6.8,2.7,4.3,,907,27,7.5,8.8,2.9,5.7
+"Schizophrenia, schizotypal and delusional disorders (F20–F29)",477,29.6,7.8,9.4,3.7,6.8,,354,20.3,5.9,7,3.4,4.9,,832,24.8,6.9,8.2,3.6,5.9
+Mood (affective) disorders (F30–F39),242,15,4,5.9,1.5,1.9,,323,18.5,5.4,6.1,0.8,-1.1,,565,16.8,4.7,5.9,1,0.3
+"Neurotic, stress-related and somatoform disorders (F40–F48)",150,9.3,2.5,3.1,1.9,1.5,,263,15.1,4.4,4.8,1.7,2,,413,12.3,3.4,3.9,1.8,1.7
+Disorders of adult personality and behaviour (F60–F69),58,3.6,1,1,3.1,0.7,,223,12.8,3.7,3.4,2.4,2,,282,8.4,2.3,2.2,2.5,1.3
+Behavioural and emotional disorders with onset usually occurring in childhood and adolescence (F90–F98),36,2.2,0.6,0.5,3.6,0.3,,n.p.,n.p.,n.p.,0.2,1.8,0.1,,n.p.,n.p.,n.p.,0.3,2.8,0.2
+"Organic, including symptomatic, mental disorders (F00–F09)",22,1.4,0.4,0.9,0.7,-0.4,,n.p.,n.p.,n.p.,1.8,1.6,0.7,,n.p.,n.p.,n.p.,1.4,1.2,0.2
+Behavioural syndromes associated with physiological disturbances and physical factors (F50–F59),n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,,n.p.,n.p.,n.p.,0.4,0.7,-0.2,,29,0.9,0.2,0.2,0.7,-0.1
+Unspecified mental disorder (F99),n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+Mental retardation (F70–F79),8,0.5,n.p.,n.p.,n.p.,n.p.,,16,0.9,0.3,0.2,12.9,0.2,,24,0.7,0.2,0.2,10.4,0.2
+Disorders of psychological development (F80–F89),11,0.7,0.2,n.p.,n.p.,n.p.,,7,0.4,n.p.,n.p.,n.p.,n.p.,,18,0.5,0.1,0.1,1.3,0
+Other(f),71,4.4,1.2,0.8,0.9,-0.1,,n.p.,n.p.,n.p.,1.4,1.6,0.5,,n.p.,n.p.,n.p.,1.1,1.3,0.2
+Total,1610,100,26.4,32.6,2.3,18.3,,1746,100,29,32.2,1.7,13.5,,3358,100,27.7,32.3,1.9,15.7
+,Australia,,,,,,,,,,,,,,,,,,,
+Mental and behavioural disorders due to psychoactive substance use (F10–F19),10308,43,12.4,15.3,3.8,11.3,,7509,32.5,9,10.5,3.8,7.7,,17818,37.8,10.7,12.8,3.8,9.4
+"Schizophrenia, schizotypal and delusional disorders (F20–F29)",6306,26.3,7.6,8.6,3.3,6,,3964,17.1,4.8,5.5,3,3.7,,10271,21.8,6.2,7.1,3.2,4.8
+Mood (affective) disorders (F30–F39),2419,10.1,2.9,3.6,0.9,-0.4,,3850,16.6,4.6,5.5,0.7,-2.1,,6269,13.3,3.8,4.6,0.8,-1.3
+"Neurotic, stress-related and somatoform disorders (F40–F48)",2575,10.7,3.1,3.7,1.3,0.9,,3835,16.6,4.6,4.9,1.3,1.1,,6411,13.6,3.9,4.3,1.3,1
+Disorders of adult personality and behaviour (F60–F69),671,2.8,0.8,0.9,2.4,0.5,,1865,8.1,2.2,2.2,1.3,0.5,,2538,5.4,1.5,1.6,1.5,0.5
+Behavioural and emotional disorders with onset usually occurring in childhood and adolescence (F90–F98),360,1.5,0.4,0.3,2.2,0.2,,250,1.1,0.3,0.2,2.1,0.1,,611,1.3,0.4,0.3,2.1,0.2
+"Organic, including symptomatic, mental disorders (F00–F09)",537,2.2,0.6,1.7,1.4,0.5,,543,2.3,0.7,1.5,1.5,0.5,,1080,2.3,0.7,1.6,1.4,0.5
+Behavioural syndromes associated with physiological disturbances and physical factors (F50–F59),34,0.1,0,0,0.7,0,,251,1.1,0.3,0.2,0.3,-0.6,,285,0.6,0.2,0.1,0.3,-0.3
+Unspecified mental disorder (F99),22,0.1,0,0,2.3,0,,25,0.1,0,0,3.2,0,,47,0.1,0,0,2.7,0
+Mental retardation (F70–F79),58,0.2,0.1,0.1,4.1,0.1,,48,0.2,0.1,0,2.6,0,,106,0.2,0.1,0.1,3.3,0
+Disorders of psychological development (F80–F89),124,0.5,0.1,0.1,1,0,,80,0.3,0.1,0.1,1,0,,204,0.4,0.1,0.1,1,0
+Other(f),550,2.3,0.7,0.6,1.2,0.1,,906,3.9,1.1,1.1,1.7,0.5,,1456,3.1,0.9,0.9,1.5,0.3
+Total,23964,100,28.8,35.2,2.2,19.2,,23126,100,27.8,31.8,1.6,11.4,,47096,100,28.3,33.4,1.8,15.2
+(a) Persons data includes sex not stated and indeterminate.,,,,,,,,,,,,,,,,,,,,
+"(b) Proportion of male, female and total hospitalisations of Indigenous Australians in the period July 2017 to June 2019.",,,,,,,,,,,,,,,,,,,,
+"(c) Age-standardised (age-std.) rates have been calculated using the direct method, with 2001 Australian population by 5-year age groups (up to 75+) as the standard population. ",,,,,,,,,,,,,,,,,,,,
+(d) Rate ratio is the age-standardised rate for Indigenous Australians divided by the age-standardised rate for non-Indigenous Australians.,,,,,,,,,,,,,,,,,,,,
+(e) Rate difference is the age-standardised rate for Indigenous Australians minus the age-standardised rate for non-Indigenous Australians.,,,,,,,,,,,,,,,,,,,,
+"(f) Other includes ICD-10-AM codes relating to mental health: G30, G47.0, G47.1, G47.2, G47.8, G47.9, O99.3, R44, R45.0, R45.1, R45.4, R48, Z00.4, Z03.2, Z04.6, Z09.3, Z13.3, Z50.2, Z50.3, Z54.3, Z61.9, Z63.1, Z63.8, Z63.9, Z65.8, Z65.9, Z71.4, Z71.5, Z76.0.",,,,,,,,,,,,,,,,,,,,
+Notes,,,,,,,,,,,,,,,,,,,,
+1. Data are from public and private hospitals in all jurisdictions.,,,,,,,,,,,,,,,,,,,,
+2. Rates are calculated using ABS population projections (series B) based on the 2016 Census.,,,,,,,,,,,,,,,,,,,,
+3. Data are reported by jurisdiction of usual residence of the patient hospitalised.,,,,,,,,,,,,,,,,,,,,
+4. Categories are based on the ICD-10-AM 10th edition (Australian Consortium for Classification Development 2017). Information about the definitions can be found at https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia/classifications-and-technical-notes.,,,,,,,,,,,,,,,,,,,,
+"5. Data exclude hospitalisations for Newborns without qualified days, Hospital boarders and Posthumous organ procurement.",,,,,,,,,,,,,,,,,,,,
+"6. Data exclude hospitalisations in WA with a contracted patient status of 'Inter-hospital contracted patient to private sector hospital', to adjust for hospitalisations recorded on both sides of contractual care arrangements.",,,,,,,,,,,,,,,,,,,,
+Source: AIHW analysis of National Hospital Morbidity Database.,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Link to Contents,,,,,,,,,,,,,,,,,,,,

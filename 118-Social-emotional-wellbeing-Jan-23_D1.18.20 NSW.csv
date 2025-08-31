@@ -1,0 +1,28 @@
+"Table D1.18.20 NSW: Hospitalisation rates for mental health-related conditions (based on principal diagnosis), by Indigenous status, New South Wales and NSW, Vic, Qld, WA, SA and NT, 2006–07 to 2018–19",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,2006–07,2007–08,2008–09,2009–10,2010–11,2011–12,2012–13,2013–14,2014–15,2015–16,2016–17,2017–18,2018–19,Annual change(a),% change over period(b)
+,New South Wales(c),,,,,,,,,,,,,,
+"Indigenous crude rate (hospitalisations per 1,000 population)",20.2,20.5,20.5,19.9,20.1,18.9,21.8,21.8,22.1,25.2,25.8,26.1,25.7,0.6,36.9
+"Indigenous age-standardised rate (hospitalisations per 1,000 population)(d)",23.2,23.9,23.6,23.1,22.8,22.1,25.6,25.7,26,29.1,30.8,31.4,31.3,0.8,44.4
+"Non-Indigenous age-standardised rate (hospitalisations per 1,000 population)(d)",14.3,14.5,15,15.2,15.3,16.2,16.6,17.5,17.7,18.3,19.2,19.3,19.9,0.5,42
+Rate difference(e),8.9,9.4,8.5,7.8,7.4,5.8,9,8.2,8.4,10.8,11.6,12.1,11.5,. .,. .
+,"NSW, Vic, Qld, WA, SA & NT combined(f)",,,,,,,,,,,,,,
+"Indigenous crude rate (hospitalisations per 1,000 population)",17.9,18.2,18.3,18.7,20.7,21.7,23,22.1,22.7,25.7,27.1,27.6,29.3,1,69.3
+"Indigenous age-standardised rate (hospitalisations per 1,000 population)(d)",20.5,21.2,21.2,21.7,24.2,26.1,27.5,26.5,27.1,30.1,32.2,32.8,34.3,1.2,73
+"Non-Indigenous age-standardised rate (hospitalisations per 1,000 population)(d)",14.6,14.6,14.9,15.4,14.1,14.4,14.7,15.5,15.9,17,17.6,17.8,18.4,0.3,28.4
+Rate difference(e),6,6.6,6.4,6.3,10.1,11.6,12.9,11,11.2,13.2,14.5,15,15.9,. .,. .
+(a) The annual change in rates was determined using linear regression analysis.,,,,,,,,,,,,,,,
+"(b) The per cent change between 2006–07 and 2018–19 was based on the annual change over the period, using linear regression analysis.",,,,,,,,,,,,,,,
+(c) Data are from public and private hospitals.,,,,,,,,,,,,,,,
+"(d) Age-standardised rates have been calculated using the direct method, with 2001 Australian population by 5-year age groups (up to 75+) as the standard population. ",,,,,,,,,,,,,,,
+(e) Rate difference is the age-standardised rate for Indigenous Australians minus the age-standardised rate for non-Indigenous Australians.,,,,,,,,,,,,,,,
+"(f) Data exclude private hospitals in Tasmania, the Australian Capital Territory and the Northern Territory.",,,,,,,,,,,,,,,
+Notes,,,,,,,,,,,,,,,
+"1. Data reflect the state or territory of each patient’s usual residence, rather than the state or territory of the hospital they were admitted to.",,,,,,,,,,,,,,,
+2. Rates are calculated using ABS backcast population estimates and projections (series B) based on the 2016 Census.,,,,,,,,,,,,,,,
+"3. Categories are based on the ICD-10-AM 10th edition (Australian Consortium for Classification Development 2017) and previous editions: ICD-10-AM codes F00–F99, G30, R44, R48, G47.0, G47.1, G47.2, G47.8, G47.9, O99.3, R45.0, R45.1, R45.4, Z00.4, Z03.2, Z04.6, Z09.3, Z13.3, Z50.2, Z50.3, Z54.3, Z61.9, Z63.1, Z63.8, Z63.9, Z65.8, Z65.9, Z71.4, Z71.5, Z76.0. Information about their definition can be found at https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia/classifications-and-technical-notes.",,,,,,,,,,,,,,,
+"4. Data exclude hospitalisations for Newborns without qualified days, Hospital boarders and Posthumous organ procurement.",,,,,,,,,,,,,,,
+"5. Data exclude hospitalisations in WA with a contracted patient status of 'Inter-hospital contracted patient to private sector hospital', to adjust for hospitalisations recorded on both sides of contractual care arrangements.",,,,,,,,,,,,,,,
+"6. From July 2015, a revision in the Australian Coding Standard ACS 2104 Rehabilitation was introduced to the ICD-10-AM. From July 2015, where patients were admitted to hospital specifically for rehabilitation, the principal diagnosis assigned is the condition which led to the need for rehabilitation, and Z50.9 was now assigned only as an additional diagnosis (prior to this, Z50.9 was assigned as the principal diagnosis with the reason for rehabilitation as the first additional diagnosis). This resulted in an increase in number of hospitalisations for disease principal diagnoses (for example, injury and poisoning).",,,,,,,,,,,,,,,
+Source: AIHW analysis of National Hospital Morbidity Database.,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Link to Contents,,,,,,,,,,,,,,,

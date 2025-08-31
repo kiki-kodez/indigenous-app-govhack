@@ -1,0 +1,55 @@
+"Table D1.18.28: Hospitalisations for injury and poisoning (based on principal diagnosis) with a first reported external cause of self-harm, by Indigenous status, jurisdiction and sex, Australia, July 2017 to June 2019",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
+,Indigenous,,,,Non-Indigenous,,,,,
+,Number,"Crude rate (per 1,000)","Age-std. rate (per 1,000)(a)",,Number,"Crude rate (per 1,000)","Age-std. rate (per 1,000)(a)",,Rate ratio(b),Rate difference(c)
+NSW,,,,,,,,,,
+Males,631,2.3,2.6,,5262,0.7,0.7,,3.7,1.9
+Females,926,3.4,3.5,,8771,1.1,1.2,,2.9,2.3
+Persons(d),1560,2.8,3,,14034,0.9,0.9,,3.2,2.1
+Vic,,,,,,,,,,
+Males,164,2.7,3,,4060,0.6,0.6,,4.6,2.3
+Females,230,3.8,4,,7825,1.2,1.3,,3.2,2.8
+Persons(d),394,3.3,3.5,,11901,0.9,1,,3.7,2.5
+Qld,,,,,,,,,,
+Males,684,3,3.2,,5726,1.2,1.2,,2.6,1.9
+Females,1281,5.5,5.4,,9846,2,2.2,,2.5,3.2
+Persons(d),1965,4.3,4.3,,15572,1.6,1.7,,2.5,2.6
+WA,,,,,,,,,,
+Males,209,2,2.1,,1951,0.8,0.8,,2.6,1.3
+Females,420,4,4,,3621,1.5,1.6,,2.6,2.5
+Persons(d),629,3,3.1,,5572,1.1,1.2,,2.6,1.9
+SA,,,,,,,,,,
+Males,146,3.3,3.8,,1734,1,1.1,,3.5,2.7
+Females,258,5.8,5.6,,2786,1.6,1.8,,3.1,3.8
+Persons(d),404,4.6,4.7,,4520,1.3,1.4,,3.3,3.3
+Tas(e),,,,,,,,,,
+Males,n.p.,0.8,1,,n.p.,1.1,1.2,,0.9,-0.2
+Females,n.p.,3.1,2.8,,n.p.,2,2.3,,1.2,0.5
+Persons(d),n.p.,2,1.9,,n.p.,1.5,1.7,,1.1,0.1
+ACT(e),,,,,,,,,,
+Males,n.p.,2.8,3,,n.p.,0.8,0.8,,3.6,2.2
+Females,n.p.,7,6.2,,n.p.,1.9,2,,3.1,4.2
+Persons(d),n.p.,4.8,4.5,,n.p.,1.4,1.4,,3.2,3
+NT(e),,,,,,,,,,
+Males,n.p.,2.9,2.8,,n.p.,1.2,1.3,,2.2,1.5
+Females,n.p.,5.1,4.9,,n.p.,2.2,2.5,,2,2.5
+Persons(d),n.p.,4,3.8,,n.p.,1.7,1.8,,2.1,2
+Australia(f),,,,,,,,,,
+Males,2144,2.6,2.8,,20142,0.8,0.9,,3.3,1.9
+Females,3682,4.4,4.4,,35357,1.5,1.5,,2.9,2.9
+Persons(d),5829,3.5,3.6,,55523,1.1,1.2,,3,2.4
+"(a) Age-standardised (age-std.) rates have been calculated using the direct method, with 2001 Australian population by 5-year age groups (up to 75+) as the standard population. ",,,,,,,,,,
+(b) Rate ratio is the age-standardised rate for Indigenous Australians divided by the age-standardised rate for non-Indigenous Australians.,,,,,,,,,,
+(c) Rate difference is the age-standardised rate for Indigenous Australians minus the age-standardised rate for non-Indigenous Australians.,,,,,,,,,,
+(d) Persons data includes sex not stated and indeterminate.,,,,,,,,,,
+"(e) The number of hospitalisations in Tasmania, the Australian Capital Territory and the Northern Territory are not published for privacy reasons. ",,,,,,,,,,
+"(f) Includes other territories, overseas residents and unknown state of residence.",,,,,,,,,,
+Notes,,,,,,,,,,
+1. Data are from public and private hospitals in all jurisdictions.,,,,,,,,,,
+2. Rates are calculated using ABS population projections (series B) based on the 2016 Census.,,,,,,,,,,
+3. Data are reported by jurisdiction of usual residence of the patient hospitalised.,,,,,,,,,,
+"4. Categories are based on the ICD-10-AM 10th edition (Australian Consortium for Classification Development 2017): ICD-10-AM codes S00–T98 (principal diagnosis of Injury, poisoning and certain other consequences of external causes) and X60–X84 (external cause of intentional self-harm).",,,,,,,,,,
+"5. Data exclude hospitalisations for Newborns without qualified days, Hospital boarders and Posthumous organ procurement.",,,,,,,,,,
+"6. Data exclude hospitalisations in WA with a contracted patient status of 'Inter-hospital contracted patient to private sector hospital', to adjust for hospitalisations recorded on both sides of contractual care arrangements.",,,,,,,,,,
+Source: AIHW analysis of National Hospital Morbidity Database.,,,,,,,,,,
+,,,,,,,,,,
+Link to Contents,,,,,,,,,,

@@ -1,0 +1,27 @@
+"Table D1.18.19: Average length of stay in hospital (days), hospitalisations for mental health-related conditions (based on principal diagnosis), by Indigenous status and sex, Australia, July 2017 to June 2019",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,Indigenous,,,,Non-Indigenous,,
+Mental health-related condition,Males,Females,Persons(a),,Males,Females,Persons(a)
+Mental retardation (F70–F79),45.9827586206897,10.1875,29.7735849056604,,20.7887323943662,14.1447963800905,17.4055299539171
+"Schizophrenia, schizotypal and delusional disorders (F20–F29)",22.8799555978433,19.1162966700303,21.4262486612793,,21.5747098489269,16.8137577673607,19.5446288290801
+"Organic, including symptomatic, mental disorders (F00–F09)",12.0614525139665,14.4125230202578,13.2435185185185,,12.0415177171527,10.6831266944893,11.3523285639235
+Behavioural syndromes associated with physiological disturbances and physical factors (F50–F59),6.76470588235294,11.3625498007968,10.8140350877193,,10.8690783807063,10.275763557033,10.3091354396277
+Mood (affective) disorders (F30–F39),8.58123191401406,7.22779220779221,7.75003987876855,,7.2846953108656,6.280912701503,6.62515272516297
+Disorders of adult personality and behaviour (F60–F69),4.90312965722802,6.4343163538874,6.04255319148936,,4.84988962472406,4.60509882850803,4.64272655503387
+"Neurotic, stress-related and somatoform disorders (F40–F48)",4.97436893203884,4.60938722294655,4.75557635314304,,4.64570285697602,4.69734147033182,4.67604893930232
+Mental and behavioural disorders due to psychoactive substance use (F10–F19),3.55714008537059,3.38047676121987,3.48254574026266,,4.67005497355046,4.4273737224115,4.57013536017763
+Behavioural and emotional disorders with onset usually occurring in childhood and adolescence (F90–F98),4.46388888888889,4.864,4.6644844517185,,4.76652102676133,5.49269792467333,5.06799680766161
+Unspecified mental disorder (F99),4,3.68,3.82978723404255,,7.2218309859155,3.06113537117904,5.364522417154
+Disorders of psychological development (F80–F89),4.5,5.45,4.87254901960784,,7.97524521251752,5.10141685309471,6.86846639862148
+Total mental and behavioural disorders (F00–F99),9.79892372085078,7.72169216921692,8.78823400525855,,8.83025830258303,7.01137644974227,7.79316560778166
+Other mental health conditions(b),2.38181818181818,3.58719646799117,3.13186813186813,,4.53311892181637,4.70515501968504,4.62814653114128
+Total,9.62869303955934,7.55971633659085,8.61336419228809,,8.68587601147518,6.9382818349139,7.69028443322904
+(a) Persons data includes sex not stated and indeterminate.,,,,,,,
+"(b) Other includes ICD-10-AM codes relating to mental health: G30, G47.0, G47.1, G47.2, G47.8, G47.9, O99.3, R44, R45.0, R45.1, R45.4, R48, Z00.4, Z03.2, Z04.6, Z09.3, Z13.3, Z50.2, Z50.3, Z54.3, Z61.9, Z63.1, Z63.8, Z63.9, Z65.8, Z65.9, Z71.4, Z71.5, Z76.0. Information about these definitions can be found at https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia/classifications-and-technical-notes.",,,,,,,
+Notes,,,,,,,
+1. Data are from public and private hospitals in all jurisdictions.,,,,,,,
+2. Categories are based on the ICD-10-AM 10th edition (Australian Consortium for Classification Development 2017). Information about the definition used can be found at https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia/classifications-and-technical-notes.,,,,,,,
+"3. Data exclude hospitalisations for Newborns without qualified days, Hospital boarders and Posthumous organ procurement.",,,,,,,
+"4. Data exclude hospitalisations in WA with a contracted patient status of 'Inter-hospital contracted patient to private sector hospital', to adjust for hospitalisations recorded on both sides of contractual care arrangements.",,,,,,,
+Source: AIHW analysis of National Hospital Morbidity Database.,,,,,,,
+,,,,,,,
+Link to Contents,,,,,,,

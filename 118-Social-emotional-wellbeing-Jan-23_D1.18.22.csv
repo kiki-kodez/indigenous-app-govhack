@@ -1,0 +1,60 @@
+"Table D1.18.22: Intentional self-harm mortality rates, by Indigenous status, age and sex, NSW, Qld, WA, SA and NT, 2015–2019(a)",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+,Deaths,,,"Rate (per 100,000)",,,Rate ratio(b),Rate difference(c)
+Age group (years),Indigenous,Non-Indigenous,,Indigenous,Non-Indigenous,,,
+,Males,,,,,,,
+0–14,5,36,,0.8,0.5,,1.7,0.3
+15–19,79,340,,42.4,13.5,,3.1,28.9
+20–24,122,624,,72,21.8,,3.3,50.2
+25–29,101,691,,68.9,22.6,,3.1,46.3
+30–34,91,781,,77.8,25.7,,3,52.1
+35–39,67,765,,68.8,27.2,,2.5,41.6
+40–44,62,797,,65.7,29.1,,2.3,36.6
+45–49,41,836,,44.7,30.5,,1.5,14.3
+50–54,24,712,,30.2,27.2,,1.1,2.9
+55+,28,2487,,15,22.5,,0.7,-7.5
+Total (crude rate),620,8069,,34.6,19.6,,1.8,15
+Total (age-standardised rate)(d),620,8069,,37.6,19.3,,1.9,18.3
+,Females,,,,,,,
+0–14,12,23,,2,0.3,,6.5,1.7
+15–19,49,131,,27.5,5.5,,5,22.1
+20–24,44,185,,27.4,6.7,,4.1,20.7
+25–29,31,221,,22,7.2,,3,14.8
+30–34,26,193,,22.1,6.3,,3.5,15.9
+35–39,18,225,,18.1,7.9,,2.3,10.1
+40–44,12,242,,12,8.8,,1.4,3.3
+45–49,14,275,,13.6,9.7,,1.4,3.8
+50–54,8,261,,9.1,9.7,,0.9,-0.6
+55+,13,816,,6,6.8,,0.9,-0.7
+Total (crude rate),227,2572,,12.6,6.1,,2.1,6.5
+Total (age-standardised rate)(d),227,2572,,12.6,6,,2.1,6.6
+,Persons,,,,,,,
+0–14,17,59,,1.4,0.4,,3.6,1
+15–19,128,471,,35.2,9.6,,3.7,25.5
+20–24,166,809,,50.3,14.4,,3.5,35.9
+25–29,132,912,,45.9,14.9,,3.1,31
+30–34,117,974,,49.9,15.9,,3.1,34
+35–39,85,990,,43.2,17.5,,2.5,25.6
+40–44,74,1039,,38.1,18.9,,2,19.2
+45–49,55,1111,,28.2,20,,1.4,8.3
+50–54,32,973,,19.1,18.4,,1,0.7
+55+,41,3303,,10.2,14.3,,0.7,-4.1
+Total (crude rate),847,10641,,23.6,12.8,,1.8,10.8
+Total (age-standardised rate)(d),847,10641,,24.9,12.6,,2,12.4
+"(a) Care needs to be taken in interpreting figures relating to intentional self-harm For further information, see the methodology notes in ABS Causes of Deaths, Australia, 2019 (https://www.abs.gov.au/methodologies/causes-death-australia-methodology/2019).",,,,,,,,
+(b) Rate ratio is the rate for Indigenous Australians divided by the rate for non-Indigenous Australians.,,,,,,,,
+(c) Rate difference is the rate for Indigenous Australians minus the rate for non-Indigenous Australians.,,,,,,,,
+"(d) Directly age-standardised using the 2001 Australian standard population, by 5-year age groups up to 55+.",,,,,,,,
+Notes:,,,,,,,,
+"1. Categories are based on the ICD-10 10th Revision (World Health Organization): Intentional self harm ICD-10 codes X60–X84, Y87.0.",,,,,,,,
+"2.  A number of deaths occur each year for which the Indigenous status is not stated on the death registration form—0.8% of all deaths registered in 2019. Thus, there is some degree of under-identification of Indigenous people in mortality data. For further information see the methodology notes in ABS Causes of Deaths, Australia, 2019 (https://www.abs.gov.au/methodologies/causes-death-australia-methodology/2019)",,,,,,,,
+"3.  All causes of death data from 2006 onward are subject to a revisions process. Once data for a reference year are 'final', they are no longer revised. Affected data in this table are: 2015-2017 (final), 2018 (revised), 2019 (preliminary). For further information, see the methodology notes in ABS Causes of Deaths, Australia, 2019 reference period (https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia/latest-release) and ABS Deaths, Australia, 2019 reference period (https://www.abs.gov.au/statistics/people/population/deaths-australia/latest-release).",,,,,,,,
+"4. Data by causes of death have been adjusted for Victorian additional death registrations in 2019. A time series adjustment has been applied to causes of death to enable a more accurate comparison of mortality over time. When the time series adjustment is applied, deaths are presented in the year in which they were registered (i.e. removed from 2019 and added to 2017 or 2018). For further information see the methodology notes in ABS Causes of Deaths, Australia, 2019 reference period (https://www.abs.gov.au/methodologies/causes-death-australia-methodology/2019)",,,,,,,,
+5.  Population estimates for non-Indigenous Australians were derived by subtracting Aboriginal and Torres Strait Islander backcast population estimates and projections (series B) based on the 2016 Census from the total Australian Estimated Resident Population.,,,,,,,,
+"6. Data are reported for 5 jurisdictions combined—New South Wales, Queensland, Western Australia, South Australia and the Northern Territory. These jurisdictions are considered to have adequate levels of Indigenous identification in mortality data. ",,,,,,,,
+7. These data exclude 199 registered deaths where the Indigenous status was not stated over the period 2015–2019.,,,,,,,,
+"8. Data are grouped for 2015–2019 because of small numbers each year. For rate calculations, the numerator is the total number of deaths and the denominator is the combined population  over the time period.",,,,,,,,
+9. Deaths for which the age at death was not recorded were excluded from the calculation of age-standardised rates.,,,,,,,,
+"10. Deaths are counted according to year of registration of death, and state or territory of usual residence.",,,,,,,,
+Source: AIHW National Mortality Database.,,,,,,,,
+,,,,,,,,
+Link to Contents,,,,,,,,

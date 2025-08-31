@@ -1,0 +1,43 @@
+"Table D1.18.27: Hospitalisations for injury and poisoning (based on principal diagnosis) with a first reported external cause of self-harm, by Indigenous status, sex and age group, Australia, July 2017 to June 2019",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+  ,,,,,,,,All ages,
+,<15,15–24,25–34,35–44,45–54,55–64,65+,Crude(a),Age-std.(b)
+,Number,,,,,,,,
+Males,,,,,,,,,
+Indigenous,70,622,602,451,290,92,17,2144,. .
+Non-Indigenous,289,5050,4362,3892,3250,1854,1445,20142,. .
+Females,,,,,,,,,
+Indigenous,269,1439,693,636,477,140,28,3682,. .
+Non-Indigenous,1769,12966,6601,4972,4907,2421,1721,35357,. .
+Persons(c),,,,,,,,,
+Indigenous,339,2064,1295,1087,767,232,45,5829,. .
+Non-Indigenous,2061,18028,10965,8867,8158,4277,3167,55523,. .
+,"Hospitalisations per 1,000 population",,,,,,,,
+Males,,,,,,,,,
+Indigenous,0.2,3.8,4.8,5.2,3.6,1.7,0.5,2.6,2.8
+Non-Indigenous,0.1,1.6,1.2,1.2,1.1,0.7,0.4,0.8,0.9
+Rate ratio(d),3.9,2.4,4,4.3,3.4,2.5,1.2,3.1,3.3
+Rate difference(e),0.2,2.2,3.6,4,2.6,1,0.1,1.7,1.9
+Females,,,,,,,,,
+Indigenous,1,9.2,5.7,7.1,5.4,2.3,0.7,4.4,4.4
+Non-Indigenous,0.4,4.3,1.8,1.5,1.5,0.8,0.4,1.5,1.5
+Rate ratio(d),2.4,2.1,3.1,4.6,3.5,2.7,1.6,3.1,2.9
+Rate difference(e),0.6,4.9,3.9,5.6,3.8,1.5,0.2,3,2.9
+Persons(c),,,,,,,,,
+Indigenous,0.6,6.4,5.3,6.2,4.6,2,0.6,3.5,3.6
+Non-Indigenous,0.2,2.9,1.5,1.4,1.3,0.8,0.4,1.1,1.2
+Rate ratio(d),2.6,2.2,3.5,4.5,3.5,2.6,1.4,3.1,3
+Rate difference(e),0.4,3.5,3.8,4.8,3.3,1.2,0.2,2.4,2.4
+(a) All ages crude rate includes age not stated.,,,,,,,,,
+"(b) Age-standardised (age-std.) rates have been calculated using the direct method, with 2001 Australian population by 5-year age groups (up to 75+) as the standard population. ",,,,,,,,,
+(c) Persons data includes sex not stated and indeterminate.,,,,,,,,,
+(d) Rate ratio is the rate for Indigenous Australians divided by the rate for non-Indigenous Australians.,,,,,,,,,
+(e)  Rate difference is the rate for Indigenous Australians minus the rate for non-Indigenous Australians.,,,,,,,,,
+Notes,,,,,,,,,
+1. Data are from public and private hospitals in all jurisdictions.,,,,,,,,,
+2. Rates are calculated using ABS population projections (series B) based on the 2016 Census.,,,,,,,,,
+"3. Categories are based on the ICD-10-AM 10th edition (Australian Consortium for Classification Development 2017): ICD-10-AM codes S00–T98 (principal diagnosis of Injury, poisoning and certain other consequences of external causes) and X60–X84 (external cause of intentional self-harm).",,,,,,,,,
+"4. Data exclude hospitalisations for Newborns without qualified days, Hospital boarders and Posthumous organ procurement.",,,,,,,,,
+"5. Data exclude hospitalisations in WA with a contracted patient status of 'Inter-hospital contracted patient to private sector hospital', to adjust for hospitalisations recorded on both sides of contractual care arrangements.",,,,,,,,,
+Source: AIHW analysis of National Hospital Morbidity Database.,,,,,,,,,
+,,,,,,,,,
+Link to Contents,,,,,,,,,

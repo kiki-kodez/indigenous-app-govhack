@@ -1,0 +1,51 @@
+"Table D1.18.14 NSW: Hospitalisation rates for mental health-related conditions (based on principal diagnosis), by Indigenous status, sex and age group, New South Wales and Australia, July 2017 to June 2019",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
+,,,,,,,,,All ages,
+,0–4,5–14,15–24,25–34,35–44,45–54,55–64,65+,Crude(a),Age-std.(b)
+,"Hospitalisations per 1,000 population",,,,,,,,,
+,New South Wales,,,,,,,,,
+Males,,,,,,,,,,
+Indigenous,2.3,3.4,24.3,48.7,66.1,53.2,28.8,18.1,27,34
+Non-Indigenous,2.8,1.9,13.7,18.3,27.1,26.7,20.8,21.7,17.7,17.5
+Rate ratio(c),0.8,1.8,1.8,2.7,2.4,2,1.4,0.8,1.5,1.9
+Rate difference(d),-0.5,1.5,10.6,30.4,39,26.5,8.1,-3.5,9.3,16.5
+Females,,,,,,,,,,
+Indigenous,1.3,3.2,29.7,41.2,55.8,35.1,29,17,24.8,29
+Non-Indigenous,2.1,2,27.5,25.9,30.5,26.7,23.4,24.9,22.2,21.6
+Rate ratio(c),0.6,1.6,1.1,1.6,1.8,1.3,1.2,0.7,1.1,1.3
+Rate difference(d),-0.8,1.2,2.2,15.3,25.3,8.4,5.6,-7.9,2.6,7.4
+Persons(e),,,,,,,,,,
+Indigenous,1.8,3.3,27,44.9,60.8,43.5,28.9,17.5,25.9,31.4
+Non-Indigenous,2.4,1.9,20.4,22.1,28.8,26.7,22.1,23.4,20,19.6
+Rate ratio(c),0.7,1.7,1.3,2,2.1,1.6,1.3,0.7,1.3,1.6
+Rate difference(d),-0.6,1.4,6.5,22.8,32,16.8,6.8,-5.8,5.9,11.8
+,Australia,,,,,,,,,
+Males,,,,,,,,,,
+Indigenous,2.2,3.5,27.1,47.7,63,58.7,32.2,22.6,28.8,35.2
+Non-Indigenous,3.6,1.4,13.1,17.6,23,22.6,18.6,22,16.2,16
+Rate ratio(c),0.6,2.5,2.1,2.7,2.7,2.6,1.7,1,1.8,2.2
+Rate difference(d),-1.4,2.1,14,30.1,40,36.1,13.6,0.6,12.6,19.2
+Females,,,,,,,,,,
+Indigenous,1.7,3.6,34.7,45.4,53.2,45,28.5,21.1,27.8,31.8
+Non-Indigenous,2.8,2.2,24.2,23.8,27.2,26.6,23.4,25.1,21.1,20.5
+Rate ratio(c),0.6,1.7,1.4,1.9,2,1.7,1.2,0.8,1.3,1.6
+Rate difference(d),-1.1,1.5,10.5,21.6,26,18.4,5.1,-4,6.8,11.4
+Persons(e),,,,,,,,,,
+Indigenous,2,3.6,30.8,46.6,58,51.5,30.2,21.8,28.3,33.4
+Non-Indigenous,3.2,1.8,18.5,20.7,25.1,24.6,21,23.7,18.7,18.2
+Rate ratio(c),0.6,2,1.7,2.2,2.3,2.1,1.4,0.9,1.5,1.8
+Rate difference(d),-1.2,1.8,12.3,25.9,32.9,26.9,9.2,-1.9,9.7,15.2
+(a) All ages crude rate includes age not stated.,,,,,,,,,,
+"(b) Age-standardised (age-std.) rates have been calculated using the direct method, with 2001 Australian population by 5-year age groups (up to 75+) as the standard population. ",,,,,,,,,,
+(c) Rate ratio is the rate for Indigenous Australians divided by the rate for non-Indigenous Australians.,,,,,,,,,,
+(d) Rate difference is the rate for Indigenous Australians minus the rate for non-Indigenous Australians.,,,,,,,,,,
+(e) Persons data includes sex not stated and indeterminate.,,,,,,,,,,
+Notes,,,,,,,,,,
+1. Data are from public and private hospitals in all jurisdictions.,,,,,,,,,,
+2. Rates are calculated using ABS population projections (series B) based on the 2016 Census.,,,,,,,,,,
+3. Data are reported by jurisdiction of usual residence of the patient hospitalised.,,,,,,,,,,
+"4. Categories are based on the ICD-10-AM 10th edition (Australian Consortium for Classification Development 2017): ICD-10-AM codes F00–F99, G30, R44, R48, G47.0, G47.1, G47.2, G47.8, G47.9, O99.3, R45.0, R45.1, R45.4, Z00.4, Z03.2, Z04.6, Z09.3, Z13.3, Z50.2, Z50.3, Z54.3, Z61.9, Z63.1, Z63.8, Z63.9, Z65.8, Z65.9, Z71.4, Z71.5, Z76.0. Information about their definition can be found at https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia/classifications-and-technical-notes.",,,,,,,,,,
+"5. Data exclude hospitalisations for Newborns without qualified days, Hospital boarders and Posthumous organ procurement.",,,,,,,,,,
+"6. Data exclude hospitalisations in WA with a contracted patient status of 'Inter-hospital contracted patient to private sector hospital', to adjust for hospitalisations recorded on both sides of contractual care arrangements.",,,,,,,,,,
+Source: AIHW analysis of National Hospital Morbidity Database.,,,,,,,,,,
+,,,,,,,,,,
+Link to Contents,,,,,,,,,,

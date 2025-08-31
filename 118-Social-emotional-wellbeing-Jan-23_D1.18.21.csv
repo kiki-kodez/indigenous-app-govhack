@@ -1,0 +1,32 @@
+"Table D1.18.21: Problems relating to mental health(a) managed by general practitioners, by Indigenous status of patient, April 2010–March 2015(b)",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18
+,Number,,,% of total problems,,,"Crude rate
+ (no. per 1,000 encounters)",,,,"Age-standardised rate
+ (no. per 1,000 encounters)(c)",,,,,,,
+Problem managed,Indigenous,Other(d),,Indigenous,Other(d),,Indigenous,95% LCL(e),95% UCL(f),,Indigenous,95% LCL(e),95% UCL(f),Other(d),95% LCL(e),95% UCL(f),Rate ratio(g),Rate difference(h)
+"Depression (P03, P76)",399,22182,,2.886911222053397,2.9107485906843444,,47.018619,41.494962,52.542276,,43.459839,37.8,49.2,46.346459,45.3,47.4,0.937716493076634,–2.9
+"Anxiety (P01, P74)",194,10694,,1.4036610954344837,1.4032794801541062,,22.861183,18.846751,26.875615,,22.857203,18.1,27.6,22.344932,21.7,23,1.0229256012056782,0.5122709999999984
+Tobacco abuse (P17),139,3388,,1.0057159395123363,0.444577415257351,,16.37992,12.607344,20.152496,,15.6*,11.9,19.3,7.1*,6.8,7.4,2.2*,8.5*
+Sleep disturbance (P06),126,7521,,0.9116561753852833,0.9869146222404183,,14.847985,11.467541,18.228429,,17.952449,13.7,22.2,15.653028,15.2,16.1,1.1468994369651675,2.2994210000000006
+"Alcohol abuse (P15, P16)",112,1818,,0.8103610447869185,0.23856013605013698,,13.198209,9.293553,17.102864,,12.3*,8.4,16.1,3.8*,3.6,4,3.2*,8.5*
+Schizophrenia (P72),92,2172,,0.665653715360683,0.2850124397694706,,10.841386,7.915092,13.76768,,9.9*,7.1,12.8,4.5*,4.3,4.8,2.2*,5.4*
+Drug abuse (P19),89,1851,,0.6439476159467477,0.24289043554939693,,10.487862,7.732297,13.243427,,8.6*,6.4,10.9,3.9*,3.1,4.6,2.2*,4.8*
+Acute stress reaction (P02),79,3803,,0.57159395123363,0.4990342119904681,,9.309451,7.168167,11.450734,,9.584324,7.1,12,7.944352,7.6,8.3,1.2064324440810277,1.6399720000000002
+Affective psychosis (P73),31,1607,,0.22429636061066494,0.210872463494263,,3.653076,2.256768,5.049383,,3.098023,1.9,4.3,3.360744,3.2,3.6,0.921826536028927,–0.3
+Dementia (P70),18,2753,,0.1302365964836119,0.36125195519583453,,2.121141,0.997115,3.245166,,n.p.,n.p.,n.p.,5.678697,5.2,6.2,n.p.,n.p.
+Other mental health problems(i),233,8586,,1.6858403878156427,1.1266651969892607,,27.456988,23.082618,31.831358,,23.0*,19,26.9,18.0*,17.3,18.6,1.3*,5.0*
+Total mental health problems,1512,66375,,10.9398741046234,8.709806947375052,,178.175819,163.881831,192.469807,,172.5*,158.1,187,138.6*,136,141.2,1.2*,33.9*
+Total problems managed,13821,762072,,100,100,,1628.7,1578.3,1679.1,,"1,732.4*",1673.50827,1791.27571,"1,589.6*",1580.12065,1599.02031,1.1*,142.8*
+* Represents results with statistically significant differences in the Indigenous/Other comparisons at the p < 0.05 level.,,,,,,,,,,,,,,,,,,
+n.p. Rates not calculated due to small number of events.,,,,,,,,,,,,,,,,,,
+(a) Classified according to ICPC-2  (Classification Committee of the World Organisation of Family Doctors (WICC) 1998) and/or ICPC-2 PLUS codes.,,,,,,,,,,,,,,,,,,
+(b) Data from five combined BEACH survey years April 2010–March 2011 to April 2014–March 2015 inclusive.   ,,,,,,,,,,,,,,,,,,
+"(c) Directly age-standardised rate (no. per 1,000 encounters) using total BEACH encounters in the period as the standard.",,,,,,,,,,,,,,,,,,
+(d) 'Other' includes non-Indigenous patients and patients for whom Indigenous status was not stated.,,,,,,,,,,,,,,,,,,
+(e) LCL = lower confidence interval.,,,,,,,,,,,,,,,,,,
+(f) UCL = upper confidence interval.,,,,,,,,,,,,,,,,,,
+(g) Rate ratio is the age-standardised rate for Indigenous Australians divided by the age-standardised rate for other Australians.,,,,,,,,,,,,,,,,,,
+(h) Rate difference is the age-standardised rate for Indigenous Australians minus the age-standardised rate for other Australians.,,,,,,,,,,,,,,,,,,
+"(i) ICPC–2 codes: P04–P05, P07–P13, P18, P20, P22–P25, P27–P69, P71, P75, P77–P82, P85–P86, P98–P99.",,,,,,,,,,,,,,,,,,
+"Source: Analyses conducted by the Family Medicine Research Centre, University of Sydney, of BEACH data collected by that Centre.",,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Link to Contents,,,,,,,,,,,,,,,,,,

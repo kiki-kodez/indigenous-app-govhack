@@ -1,0 +1,35 @@
+"Table D2.05.1: People aged 20–24 who have completed year 12 or equivalent, or attained a non-school qualification at AQF Certificate III or above, by jurisdiction, remoteness and Indigenous status, 2011, 2016 and 2021",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,Indigenous,,,,,,,,Non-Indigenous,,,,,,
+,Number,,,,%,,,,Number,,,,%,,
+,2011,2016.0,2021.0,,2011,2016.0,2021.0,,2011,2016.0,2021.0,,2011,2016.0,2021.0
+Jurisdiction,,,,,,,,,,,,,,,
+NSW,6634,11164.0,15722.0,,53.5,64.3,69.3,,338945,382461.0,398516.0,,85.1,88.4,90.5
+Vic,1811,2781.0,4167.0,,59.6,69.6,72.6,,300670,340767.0,347008.0,,87.7,90.0,91.1
+Qld,6968,10400.0,14926.0,,60.9,69.5,75.0,,218348,242991.0,257255.0,,85,88.8,91.9
+WA,2252,3213.0,4304.0,,43.4,57.4,61.1,,115823,123069.0,127387.0,,83.7,87.6,90.4
+SA,1147,1616.0,2262.0,,48,61.4,64.6,,77993,83502.0,88756.0,,81.4,85.2,88.6
+Tas,844,1142.0,1622.0,,54.9,62.7,68.1,,19968,20263.0,22285.0,,76.9,79.0,83.5
+ACT,366,504.0,762.0,,68.3,77.4,82.1,,25424,26651.0,29770.0,,91.1,92.9,94.8
+NT,1187,1561.0,2039.0,,27,37.5,40.2,,7764,7741.0,7765.0,,79.4,83.8,88.2
+Remoteness area,,,,,,,,,,,,,,,
+Major cities,9643,15710.0,23425.0,,62.149,72.034,75.925,,872060,984799.0,1031415.0,,87.597,90.406,92.395
+Inner regional ,4582,7304.0,10848.0,,54.186,62.566,67.834,,150814,160020.0,164321.0,,78.368,81.822,84.472
+Outer regional,3925,5543.0,7266.0,,50.691,62.051,65.69,,64794,67929.0,69419.0,,75.768,80.888,84.184
+Remote,1090,1334.0,1671.0,,40.763,48.757,53.25,,9749,8263.0,8125.0,,77,81.145,85.079
+Very remote,1875,2383.0,2482.0,,29.579,41.008,41.749,,4737,3912.0,3925.0,,78.911,83.163,87.28
+Total Australia,21216,32378.0,45822.0,,51.8,63.2,68.1,,1105016,1227567.0,1278870.0,,85.3,88.5,90.7
+Notes,,,,,,,,,,,,,,,
+"1. Numerator includes people who have attained Year 12 or equivalent, or who have attained a non-school qualification (Certificate Level III or IV, Diploma or Advanced Diploma, Bachelor Degree, Graduate Diploma/Certificate or a Postgraduate Degree). People whose certificate level was 'not further defined' and their highest year of school completed was below year 12 were excluded from the numerator, given level of non-school qualification could not be determined.",,,,,,,,,,,,,,,
+2. Numerator and denominator exclude: people who had not completed year 12 whose level of non-school qualification was not stated or inadequately described; people who did not have a non-school qualification at Certificate level III whose highest year of school was not stated; people whose highest year of school completed and level of non-school qualification were both not stated or inadequately described.,,,,,,,,,,,,,,,
+3. Cells in this table have been randomly adjusted to avoid the release of confidential data. These adjustments may cause the sum of rows or columns to differ by small amounts from table totals. ,,,,,,,,,,,,,,,
+4. Data exclude overseas visitors and persons who did not state their Indigenous status.,,,,,,,,,,,,,,,
+"Source: AIHW analysis of ABS Census of Population and Housing 2011, 2016 and 2021 (ABS 2011, 2016, 2023; Productivity Commission 2023).",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+References,,,,,,,,,,,,,,,
+"ABS (Australian Bureau of Statistics) 2011. '2011 Census - counting persons, place of usual residence' [Census TableBuilder Pro product], accessed 28/04/2023, https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder",,,,,,,,,,,,,,,
+"ABS 2016. '2016 Census - counting persons, place of usual residence' [Census TableBuilder Pro product], accessed 28/04/2023, https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder",,,,,,,,,,,,,,,
+"ABS 2023. '2021 Census - counting persons, place of usual residence' [Census TableBuilder Pro product], accessed 28/04/2023, https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder",,,,,,,,,,,,,,,
+"Productivity Commission 2023, Closing the Gap Information Repository, Dashboard: Socioeconomic outcome area 5, accessed 15/06/2023,
+https://www.pc.gov.au/closing-the-gap-data/dashboard/socioeconomic/outcome-area5",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Link to Contents,,,,,,,,,,,,,,,

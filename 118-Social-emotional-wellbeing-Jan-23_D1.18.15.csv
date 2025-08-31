@@ -1,0 +1,55 @@
+"Table D1.18.15: Hospitalisations for mental health-related conditions (based on principal diagnosis), by Indigenous status, jurisdiction and sex, Australia, July 2017 to June 2019",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
+,Indigenous,,,,Non-Indigenous,,,,,
+,Number,"Crude rate (per 1,000)","Age-std. rate (per 1,000)(a)",,Number,"Crude rate (per 1,000)","Age-std. rate (per 1,000)(a)",,Rate ratio(b),Rate difference(c)
+NSW,,,,,,,,,,
+Males,7452,27,34,,135515,17.7,17.5,,1.9,16.5
+Females,6836,24.8,29,,172106,22.2,21.6,,1.3,7.4
+Persons(d),14291,25.9,31.4,,307669,20,19.6,,1.6,11.8
+Vic,,,,,,,,,,
+Males,1610,26.4,32.6,,92344,14.6,14.4,,2.3,18.3
+Females,1746,29,32.2,,126476,19.6,18.7,,1.7,13.5
+Persons(d),3358,27.7,32.3,,219062,17.1,16.6,,1.9,15.7
+Qld,,,,,,,,,,
+Males,6939,30.2,38.4,,95267,20.1,19.9,,1.9,18.5
+Females,6116,26.3,30.6,,134387,27.8,27.3,,1.1,3.3
+Persons(d),13055,28.3,34.3,,229675,24,23.6,,1.5,10.7
+WA,,,,,,,,,,
+Males,2959,28.2,32.4,,26271,10.5,10.6,,3.1,21.9
+Females,3276,31.3,35.2,,33462,13.4,13.4,,2.6,21.8
+Persons(d),6235,29.8,33.8,,59733,12,12,,2.8,21.8
+SA,,,,,,,,,,
+Males,1525,35,41.8,,20109,12,11.9,,3.5,29.9
+Females,1664,37.4,41.9,,20983,12.2,11.9,,3.5,30.1
+Persons(d),3189,36.2,41.9,,41112,12.1,11.9,,3.5,30
+Tas(e),,,,,,,,,,
+Males,n.p.,11.2,14.3,,n.p.,18.5,18.1,,0.8,-3.9
+Females,n.p.,22.8,25.9,,n.p.,34.2,33.4,,0.8,-7.5
+Persons(d),n.p.,17,20.2,,n.p.,26.5,25.8,,0.8,-5.6
+ACT(e),,,,,,,,,,
+Males,n.p.,17,19.7,,n.p.,10.1,10.1,,1.9,9.6
+Females,n.p.,27.9,28.2,,n.p.,10.8,10.7,,2.6,17.5
+Persons(d),n.p.,22.3,23.8,,n.p.,10.5,10.4,,2.3,13.4
+NT(e),,,,,,,,,,
+Males,n.p.,33.6,36.8,,n.p.,10.3,10.7,,3.4,26.1
+Females,n.p.,31.2,33.5,,n.p.,9,9.3,,3.6,24.2
+Persons(d),n.p.,32.4,35.1,,n.p.,9.7,10.1,,3.5,25
+Australia(f),,,,,,,,,,
+Males,23964,28.8,35.2,,388665,16.2,16,,2.2,19.2
+Females,23126,27.8,31.8,,512896,21.1,20.5,,1.6,11.4
+Persons(d),47096,28.3,33.4,,901934,18.7,18.2,,1.8,15.2
+"(a) Age-standardised (age-std.) rates have been calculated using the direct method, with 2001 Australian population by 5-year age groups (up to 75+) as the standard population. ",,,,,,,,,,
+(b) Rate ratio is the age-standardised rate for Indigenous Australians divided by the age-standardised rate for non-Indigenous Australians.,,,,,,,,,,
+(c) Rate difference is the age-standardised rate for Indigenous Australians minus the age-standardised rate for non-Indigenous Australians.,,,,,,,,,,
+(d) Persons data includes sex not stated and indeterminate.,,,,,,,,,,
+"(e) The number of hospitalisations in Tasmania, the Australian Capital Territory and the Northern Territory are not published for privacy reasons. ",,,,,,,,,,
+"(f) Includes other territories, overseas residents and unknown state of residence.",,,,,,,,,,
+Notes,,,,,,,,,,
+1. Data are from public and private hospitals in all jurisdictions.,,,,,,,,,,
+2. Rates are calculated using ABS population projections (series B) based on the 2016 Census.,,,,,,,,,,
+3. Data are reported by jurisdiction of usual residence of the patient hospitalised.,,,,,,,,,,
+"4. Categories are based on the ICD-10-AM 10th edition (Australian Consortium for Classification Development 2017): ICD-10-AM codes F00–F99, G30, R44, R48, G47.0, G47.1, G47.2, G47.8, G47.9, O99.3, R45.0, R45.1, R45.4, Z00.4, Z03.2, Z04.6, Z09.3, Z13.3, Z50.2, Z50.3, Z54.3, Z61.9, Z63.1, Z63.8, Z63.9, Z65.8, Z65.9, Z71.4, Z71.5, Z76.0. Information about the definition used can be found at https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia/classifications-and-technical-notes.",,,,,,,,,,
+"5. Data exclude hospitalisations for Newborns without qualified days, Hospital boarders and Posthumous organ procurement.",,,,,,,,,,
+"6. Data exclude hospitalisations in WA with a contracted patient status of 'Inter-hospital contracted patient to private sector hospital', to adjust for hospitalisations recorded on both sides of contractual care arrangements.",,,,,,,,,,
+Source: AIHW analysis of National Hospital Morbidity Database.,,,,,,,,,,
+,,,,,,,,,,
+Link to Contents,,,,,,,,,,

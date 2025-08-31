@@ -1,0 +1,25 @@
+"Table D1.18.13: Deaths from mental health-related conditions for Indigenous Australians, by sex, NSW, Qld, WA, SA and NT, 2015–2019",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17
+,Males,,,,,,Females,,,,,,Persons,,,,
+Cause of death,Deaths,"Crude rate (per 100,000)","Age-standardised rate (per 100,000)(a)",Rate ratio(b),Rate difference(c),,Deaths,"Crude rate (per 100,000)","Age-standardised rate (per 100,000)(a)",Rate ratio(b),Rate difference(c),,Deaths,"Crude rate (per 100,000)","Age-standardised rate (per 100,000)(a)",Rate ratio(b),Rate difference(c)
+Mental and behavioural disorders due to psychoactive substance use (F10–F19),85,4.7,9.1,5.2,7.4,,27,1.5,2.1,4.2,1.6,,112,3.1,5.3,4.8,4.2
+"Organic, including symptomatic mental disorders (F00–F09)",144,8,39.2,1.4,10.9,,230,12.8,46.4,1.2,7.4,,374,10.4,43.4,1.3,9.1
+Other(d),26,1.4,6,0.5,-5.3,,62,3.4,11.7,0.7,-5.5,,88,2.5,9.3,0.6,-5.2
+Total,255,14.2,54.3,1.3,13,,319,17.7,60.2,1.1,3.6,,574,16,58,1.2,8
+"(a) Directly age-standardised using the 2001 Australian standard population, by 5-year age group up to 75+.",,,,,,,,,,,,,,,,,
+(b) Rate ratio is the age-standardised rate for Indigenous Australians divided by the age-standardised rate for non-Indigenous Australians.,,,,,,,,,,,,,,,,,
+(c) Rate difference is the age-standardised rate for Indigenous Australians minus the age-standardised rate for non-Indigenous Australians.,,,,,,,,,,,,,,,,,
+"(d) Includes ICD-10 codes: F20–F99, G30, G47.0, G47.1, G47.2, G47.8, G47.9, O99.3, R44, R45.0, R45.1, R45.4, R48.",,,,,,,,,,,,,,,,,
+Notes:,,,,,,,,,,,,,,,,,
+"1. Categories are based on the ICD-10 10th Revision (World Health Organization): ICD-10 codes: F00–F99, G30, G47.0, G47.1, G47.2, G47.8, G47.9, O99.3, R44, R45.0, R45.1, R45.4, R48.",,,,,,,,,,,,,,,,,
+"2.  A number of deaths occur each year for which the Indigenous status is not stated on the death registration form—0.8% of all deaths registered in 2019. Thus, there is some degree of under-identification of Indigenous people in mortality data. For further information see the methodology notes in ABS Causes of Deaths, Australia, 2019 (https://www.abs.gov.au/methodologies/causes-death-australia-methodology/2019)",,,,,,,,,,,,,,,,,
+"3.  All causes of death data from 2006 onward are subject to a revisions process. Once data for a reference year are 'final', they are no longer revised. Affected data in this table are: 2015-2017 (final), 2018 (revised), 2019 (preliminary). For further information, see the methodology notes in ABS Causes of Deaths, Australia, 2019 reference period (https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia/latest-release) and ABS Deaths, Australia, 2019 reference period (https://www.abs.gov.au/statistics/people/population/deaths-australia/latest-release).",,,,,,,,,,,,,,,,,
+"4. Data by causes of death have been adjusted for Victorian additional death registrations in 2019. A time series adjustment has been applied to causes of death to enable a more accurate comparison of mortality over time. When the time series adjustment is applied, deaths are presented in the year in which they were registered (i.e. removed from 2019 and added to 2017 or 2018). For further information see the methodology notes in ABS Causes of Deaths, Australia, 2019 reference period (https://www.abs.gov.au/methodologies/causes-death-australia-methodology/2019)",,,,,,,,,,,,,,,,,
+5.  Population estimates for non-Indigenous Australians were derived by subtracting Aboriginal and Torres Strait Islander backcast population estimates and projections (series B) based on the 2016 Census from the total Australian Estimated Resident Population.,,,,,,,,,,,,,,,,,
+"6. Data are reported for 5 jurisdictions combined—New South Wales, Queensland, Western Australia, South Australia and the Northern Territory. These jurisdictions are considered to have adequate levels of Indigenous identification in mortality data. ",,,,,,,,,,,,,,,,,
+7. These data exclude 239 registered deaths where the Indigenous status was not stated over the period 2015–2019.,,,,,,,,,,,,,,,,,
+"8. Data are grouped for 2015–2019 because of small numbers each year. For rate calculations, the numerator is the total number of deaths and the denominator is the combined population  over the time period.",,,,,,,,,,,,,,,,,
+9. Deaths for which the age at death was not recorded were excluded from the calculation of age-standardised rates.,,,,,,,,,,,,,,,,,
+"10. Deaths are counted according to year of registration of death, and state or territory of usual residence.",,,,,,,,,,,,,,,,,
+Source: AIHW National Mortality Database.,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Link to Contents,,,,,,,,,,,,,,,,,
