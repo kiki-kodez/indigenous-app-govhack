@@ -1,0 +1,20 @@
+"Table D3.10.8: Average length of stay for non-ambulatory-equivalent mental health-related hospitalisations, by Indigenous status and sex, Australia, July 2017 to June 2019",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11
+,Indigenous,,,,Non-Indigenous,,,,Total,,
+,Males,Females,Persons(a),,Males,Females,Persons(a),,Males,Females,Persons(a)
+Patient days,,,,,,,,,,,
+With specialised psychiatric care,200721,142079,342858,,2650623,2652612,5303924,,2927980,2878336,5807063
+Without specialised psychiatric care,25794,27803,53626,,592012,689695,1282616,,629940,729841,1360721
+Total ,226515,169882,396484,,3242635,3342307,6586540,,3557920,3608177,7167784
+Average length of stay (days),,,,,,,,,,,
+With specialised psychiatric care,18.5,14.2,16.4,,17.4,14.5,15.9,,17.4,14.4,15.8
+Without specialised psychiatric care,2.9,3.4,3.1,,5.7,6,5.9,,5.5,5.9,5.7
+Total ,11.5,9.3,10.5,,12.7,11.2,11.9,,12.6,11.1,11.8
+(a) Persons data includes sex not stated and indeterminate.,,,,,,,,,,,
+Notes,,,,,,,,,,,
+1. Data are from public and private hospitals in all jurisdictions.,,,,,,,,,,,
+"2. Categories are based on the ICD-10-AM 10th edition (Australian Consortium for Classification Development 2017): ICD-10-AM codes F00–F99 (Mental and behavioural disorders) and other mental health-related conditions: G30, G47.0, G47.1, G47.2, G47.8, G47.9, O99.3, R44, R45.0, R45.1, R45.4, R48, Z00.4, Z03.2, Z04.6, Z09.3, Z13.3, Z50.2, Z50.3, Z54.3, Z61.9, Z63.1, Z63.8, Z63.9, Z65.8, Z65.9, Z71.4, Z71.5, Z76.0. Information about their definition can be found at https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia/classifications-and-technical-notes.",,,,,,,,,,,
+"3. Data exclude hospitalisations for Newborns without qualified days, Hospital boarders and Posthumous organ procurement and ICD codes F52.5, F84.2, F98.5 and F98.6.",,,,,,,,,,,
+"4. Data exclude hospitalisations in WA with a contracted patient status of 'Inter-hospital contracted patient to private sector hospital', to adjust for hospitalisations recorded on both sides of contractual care arrangements.",,,,,,,,,,,
+Source: AIHW analysis of National Hospital Morbidity Database.,,,,,,,,,,,
+,,,,,,,,,,,
+Link to Contents,,,,,,,,,,,

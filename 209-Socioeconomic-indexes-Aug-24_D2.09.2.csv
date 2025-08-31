@@ -1,0 +1,89 @@
+"Table D2.09.2: Population distribution by socioeconomic area, state and territory, and Indigenous status(a), based on Index of Relative Socio-economic Advantage and Disadvantage (IRSAD), area-based quintiles, 2021",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+State/territory and quintile,Number,,,%,
+,First Nations population,Non-Indigenous population,,First Nations population,Non-Indigenous population
+New South Wales,,,,,
+Quintile 1 (most disadvantaged),112874,1234908,,41.4,16.7
+Quintile 2,66889,1326002,,24.5,18
+Quintile 3,42420,1216310,,15.6,16.5
+Quintile 4,30475,1369330,,11.2,18.6
+Quintile 5 (most advantaged),19917,2226423,,7.3,30.2
+Total,272572,7372975,,100,100
+Not applicable (number)(b),5472,31521,,. .,. .
+Victoria,,,,,
+Quintile 1 (most disadvantaged),20471,877506,,31.8,14.3
+Quintile 2,16172,1111518,,25.1,18.1
+Quintile 3,13222,1358973,,20.5,22.2
+Quintile 4,9076,1462304,,14.1,23.9
+Quintile 5 (most advantaged),5400,1315244,,8.4,21.5
+Total,64342,6125536,,100,100
+Not applicable (number)(b),1304,22652,,. .,. .
+Queensland,,,,,
+Quintile 1 (most disadvantaged),113228,982635,,48.8,21.3
+Quintile 2,52015,992290,,22.4,21.6
+Quintile 3,37846,1039610,,16.3,22.6
+Quintile 4,21307,958516,,9.2,20.8
+Quintile 5 (most advantaged),7730,630102,,3.3,13.7
+Total,232126,4603151,,100,100
+Not applicable (number)(b),5174,31894,,. .,. .
+Western Australia,,,,,
+Quintile 1 (most disadvantaged),36615,340107,,43.2,14.1
+Quintile 2,19895,513434,,23.5,21.3
+Quintile 3,15508,570332,,18.3,23.6
+Quintile 4,9041,587664,,10.7,24.4
+Quintile 5 (most advantaged),3675,401341,,4.3,16.6
+Total,84732,2412876,,100,100
+Not applicable (number)(b),3970,18331,,. .,. .
+South Australia,,,,,
+Quintile 1 (most disadvantaged),22923,413617,,55.4,24.9
+Quintile 2,9884,421440,,23.9,25.4
+Quintile 3,5227,383266,,12.6,23.1
+Quintile 4,2704,306460,,6.5,18.4
+Quintile 5 (most advantaged),673,137239,,1.6,8.3
+Total,41408,1662031,,100,100
+Not applicable (number)(b),1148,7284,,. .,. .
+Tasmania,,,,,
+Quintile 1 (most disadvantaged),15583,165805,,52.2,33.2
+Quintile 2,8483,139462,,28.4,27.9
+Quintile 3,3868,100616,,13,20.2
+Quintile 4,1643,73993,,5.5,14.8
+Quintile 5 (most advantaged),276,19295,,0.9,3.9
+Total,29857,499159,,100,100
+Not applicable (number)(b),333,2360,,. .,. .
+Australian Capital Territory,,,,,
+Quintile 1 (most disadvantaged),44,882,,0.5,0.2
+Quintile 2,509,12199,,5.9,2.9
+Quintile 3,1847,54647,,21.3,13
+Quintile 4,3117,127577,,35.9,30.2
+Quintile 5 (most advantaged),3172,226554,,36.5,53.7
+Total,8690,421858,,100,100
+Not applicable (number)(b),263,7664,,. .,. .
+Northern Territory,,,,,
+Quintile 1 (most disadvantaged),38686,12354,,67.8,8.3
+Quintile 2,7220,27777,,12.7,18.6
+Quintile 3,5507,36573,,9.7,24.5
+Quintile 4,4328,47241,,7.6,31.6
+Quintile 5 (most advantaged),1294,25627,,2.3,17.1
+Total,57037,149569,,100,100
+Not applicable (number)(b),4083,3137,,. .,. .
+Australia(c),,,,,
+Quintile 1 (most disadvantaged),360582,4028192,,45.6,17.3
+Quintile 2,181084,4546058,,22.9,19.6
+Quintile 3,125454,4761394,,15.9,20.5
+Quintile 4,81723,4933276,,10.3,21.2
+Quintile 5 (most advantaged),42141,4981824,,5.3,21.4
+Total,790980,23250739,,100,100
+Not applicable (number)(b),21745,125210,,. .,. .
+(a) Excludes persons who did not state their Indigenous status.,,,,,
+"(b) Not applicable comprises persons in SA1 which were not able to be allocated an index score, due to low population or high levels of non-responses for certain Census variables.",,,,,
+(c) Total Australia includes Other Territories.,,,,,
+Notes,,,,,
+1. Cells in this table have been randomly adjusted to avoid the release of confidential data. These adjustments may cause the sum of rows or columns to differ by small amounts from table totals.,,,,,
+2. Data excludes Overseas Visitors and persons who did not state their Indigenous status.,,,,,
+3. SEIFA = Socio Economic Indexes for Areas.,,,,,
+4. IRSAD is the SEIFA Index of Relative Socio-Economic Advantage and Disadvantage. Quintiles are based on a national area-based index ranking of Statistical Area 1 (SA1) of Usual Residence.,,,,,
+Source: AIHW analysis of ABS Census of Population and Housing 2021 (ABS 2022).,,,,,
+,,,,,
+References,,,,,
+"ABS (Australian Bureau of Statistics) 2022. '2021 Census - counting persons, place of usual residence' [Census TableBuilder Pro product], accessed 13/05/2024, https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder",,,,,
+,,,,,
+Link to Contents,,,,,

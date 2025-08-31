@@ -1,0 +1,68 @@
+"Table D2.09.1: Population distribution by socioeconomic area and Indigenous status(a), based on four SEIFA indexes (IRSAD, IRSD, IEO and IER), area-based deciles, 2021",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,Number,,,%,
+Index/decile,First Nations population,Non-Indigenous population,,First Nations population,Non-Indigenous population
+Index of Relative Socio-economic Advantage and Disadvantage (IRSAD),,,,,
+Decile 1 (most disadvantaged),239069,1880987,,30.2,8.1
+Decile 2,121507,2147210,,15.4,9.2
+Decile 3,98852,2235926,,12.5,9.6
+Decile 4,82230,2310135,,10.4,9.9
+Decile 5,69022,2354954,,8.7,10.1
+Decile 6,56437,2406441,,7.1,10.3
+Decile 7,45610,2457484,,5.8,10.6
+Decile 8,36111,2475794,,4.6,10.6
+Decile 9,26156,2510336,,3.3,10.8
+Decile 10 (most advantaged),15987,2471487,,2,10.6
+Total,790980,23250739,,100,100
+Not applicable (number)(b),21745,125210,,. .,. .
+Index of Relative Socio-economic Disadvantage (IRSD),,,,,
+Decile 1 (most disadvantaged),219167,1983139,,27.7,8.5
+Decile 2,122207,2170022,,15.5,9.3
+Decile 3,97316,2258845,,12.3,9.7
+Decile 4,81569,2308674,,10.3,9.9
+Decile 5,69583,2395272,,8.8,10.3
+Decile 6,58545,2411034,,7.4,10.4
+Decile 7,48212,2443667,,6.1,10.5
+Decile 8,41344,2448662,,5.2,10.5
+Decile 9,31603,2471902,,4,10.6
+Decile 10 (most advantaged),21446,2359519,,2.7,10.1
+Total,790980,23250739,,100,100
+Not applicable (number)(b),21745,125210,,. .,. .
+Index of Education and Occupation (IEO),,,,,
+Decile 1 (most disadvantaged),221319,1833774,,28,7.9
+Decile 2,137221,2121319,,17.3,9.1
+Decile 3,106571,2227886,,13.5,9.6
+Decile 4,84490,2323755,,10.7,10
+Decile 5,66848,2398499,,8.4,10.3
+Decile 6,56213,2414732,,7.1,10.4
+Decile 7,45280,2461193,,5.7,10.6
+Decile 8,33511,2486673,,4.2,10.7
+Decile 9,24362,2513017,,3.1,10.8
+Decile 10 (most advantaged),15533,2475242,,2,10.6
+Total,791342,23256094,,100,100
+Not applicable (number)(b),21381,119859,,. .,. .
+Index of Economic Resources (IER),,,,,
+Decile 1 (most disadvantaged),212393,2001799,,26.8,8.6
+Decile 2,101617,2258802,,12.8,9.7
+Decile 3,88876,2321600,,11.2,10
+Decile 4,78177,2335986,,9.9,10
+Decile 5,69001,2354391,,8.7,10.1
+Decile 6,64706,2367864,,8.2,10.2
+Decile 7,55510,2386028,,7,10.3
+Decile 8,48642,2386113,,6.1,10.3
+Decile 9,41694,2406371,,5.3,10.3
+Decile 10 (most advantaged),30604,2434844,,3.9,10.5
+Total,791223,23253796,,100,100
+Not applicable (number)(b),21506,122160,,. .,. .
+(a) Excludes persons who did not state their Indigenous status.,,,,,
+"(b) Not applicable comprises persons in SA1 which were not able to be allocated an index score, due to low population or high levels of non-responses for certain Census variables.",,,,,
+Notes,,,,,
+1. Cells in this table have been randomly adjusted to avoid the release of confidential data. These adjustments may cause the sum of rows or columns to differ by small amounts from table totals.,,,,,
+2. Data excludes Overseas Visitors and persons who did not state their Indigenous status.,,,,,
+3. SEIFA = Socio Economic Indexes for Areas.,,,,,
+"4. SEIFA is a collection of four indexes, each summarising a different aspect of the socio-economic conditions in an area using different Census data: IRSAD focuses on both advantage and disadvantage; the IRSD focuses on relative socio-economic disadvantage; the IEO focuses on relative Education and Occupation advantage and disadvantage; the IER focuses on Economic advantage and disadvantage. The same area may score differently for each index. Deciles are based on a national area-based index ranking of Statistical Area 1 (SA1) of Usual Residence.",,,,,
+Source: AIHW analysis of ABS Census of Population and Housing 2021 (ABS 2022).,,,,,
+,,,,,
+References,,,,,
+"ABS (Australian Bureau of Statistics) 2022. '2021 Census - counting persons, place of usual residence' [Census TableBuilder Pro product], accessed 13/05/2024, https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder",,,,,
+,,,,,
+Link to Contents,,,,,

@@ -1,0 +1,42 @@
+Table D2.09.1 supp: Variables used in the four SEIFA indexes,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Socioeconomic dimension,Variable name,Variable description,IRSAD,IRSD,IER,IEO
+Education,ATUNI,Per cent of people aged 15 years and over at university or other tertiary institution,ü,,,ü
+,CERTIFICATE,Per cent of people aged 15 years and over whose highest level of educational attainment is a certificate III or IV qualification,ü,,,ü
+,DIPLOMA,Per cent of people aged 15 years and over whose highest level of education attainment is a diploma qualification,ü,,,ü
+,NOYR12ORHIGHER,Per cent of people aged 15 years and over whose highest level of education is Year 11 or lower. Includes Certificate I and II,ü,ü,,ü
+,NOEDU,Per cent of people aged 15 years and over who have no educational attainment,ü,ü,,
+Employment,UNEMPLOYED,Per cent of people (in the labour force) unemployed,ü,ü,,ü
+,UNEMPLOYED_IER,Per cent of people aged 15 years and over who are unemployed,,,ü,
+Income,INC_HIGH,"Per cent of people with stated annual household equivalised income greater than $91,000 (approx. 9th and 10th deciles)",,,ü,
+,INC_LOW,"Per cent of people living in households with stated annual household equivalised income between $1 and $25,999 (approx. 1st and 2nd deciles)",ü,ü,ü,
+Housing,HIGHBED,Per cent of occupied private dwellings with four or more bedrooms,ü,,ü,
+,HIGHMORTGAGE,"Per cent of occupied private dwellings paying mortgage greater than $2,800 per month",ü,,ü,
+,HIGHRENT,Per cent of occupied private dwellings paying rent greater than $470 per week,ü,,,
+,LOWRENT,Per cent of occupied private dwellings paying rent less than $250 per week (excluding $0 per week),ü,ü,ü,
+,MORTGAGE,Per cent of occupied private dwellings owning dwelling (with a mortgage),,,ü,
+,OWNING,Per cent of occupied private dwellings owning dwelling without a mortgage,,,ü,
+,OVERCROWD,Per cent of occupied private dwellings requiring one or more extra bedrooms (based on Canadian National Occupancy Standard),ü,ü,ü,
+Occupation,OCC_DRIVERS,Per cent of employed people classified as Machinery Operators and Drivers,ü,ü,,
+,OCC_LABOUR,Per cent of employed people classified as 'labourers',ü,ü,,
+,OCC_MANAGER,Per cent of employed people classified as Managers,ü,,,
+,OCC_PROF,Per cent of employed people classified as Professionals,ü,,,
+,OCC_SALES_L,Per cent of employed people classified as Low Skill Sales,ü,,,
+,OCC_SERVICE_L,Per cent of employed people classified as Low Skill Community and Personal Service Workers,ü,ü,,
+,OCC_SKILL1,Per cent of employed people who work in a Skill Level 1 occupation,,,,ü
+,OCC_SKILL4,Per cent of employed people who work in a Skill Level 4 occupation,,,,ü
+,OCC_SKILL5,Per cent of employed people who work in a Skill Level 5 occupation,,,,ü
+Other,CHILDJOBLESS,Per cent of families with children under 15 years of age who live with jobless parents,ü,ü,,
+,DISABILITYU70,"Per cent of people aged under 70 who need assistance with core activities due to a long–term health condition, disability or old age",ü,ü,,
+,ENGLISHPOOR,Per cent of people who do not speak English well,,ü,,
+,GROUP,Per cent of occupied private dwellings who are group occupied private dwellings,,,ü,
+,LONE,Per cent of occupied private dwellings who are lone person occupied private dwellings,,,ü,
+,NOCAR,Per cent of occupied private dwellings with no cars,,ü,ü,
+,ONEPARENT,Per cent of one parent families with dependent offspring only,ü,ü,ü,
+,SEPDIVORCED,Per cent of people aged 15 and over who are separated or divorced,ü,ü,,
+,UNINCORP,Per cent of dwellings with at least one person who is an owner of an unincorporated enterprise,,,ü,
+Source: ABS Census of Population and Housing 2021 (ABS 2023).,,,,,,
+,,,,,,
+References,,,,,,
+"ABS (Australian Bureau of Statistics) 2023. 'Construction of the indexes', Socio-Economic Indexes for Areas (SEIFA): Technical Paper, ABS website, accessed 24/05/2024, https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/socio-economic-indexes-areas-seifa-technical-paper/2021/construction-indexes#technical-details-of-each-index-variables-and-loadings",,,,,,
+,,,,,,
+Link to Contents,,,,,,
